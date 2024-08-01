@@ -1,0 +1,1 @@
+export const domainName = "https://8102-2001-ee0-4b7e-2c80-b446-30fe-62a9-5ae6.ngrok-free.app";
